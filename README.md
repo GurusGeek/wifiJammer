@@ -52,8 +52,6 @@ Once you have executed the script, follow the on-screen instructions:
 
 The author is not responsible for any misuse or damage caused by this script. Use it responsibly and only in environments where you have explicit authorization.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute or report issues by creating a pull request or opening an issue. Happy hacking!
